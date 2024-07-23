@@ -67,3 +67,10 @@ h1{
  button{
     cursor: pointer;
  }
+.total{
+    margin-top: 30px;
+}
+
+.total p{
+    margin: 30px;
+}
